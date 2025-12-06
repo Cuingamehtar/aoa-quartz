@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Персонажи [отношение:дружественное]",
+      "color": {
+        "a": 1,
+        "rgb": 1102128
+      }
+    },
+    {
+      "query": "path:Фракции [отношение:дружественное]",
+      "color": {
+        "a": 1,
+        "rgb": 889123
+      }
+    },
+    {
+      "query": "[отношение:партия]",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
+      }
+    },
+    {
+      "query": "path:Персонажи [отношение:враждебное]",
+      "color": {
+        "a": 1,
+        "rgb": 13383766
+      }
+    },
+    {
+      "query": "path:Фракции [отношение:враждебное]",
+      "color": {
+        "a": 1,
+        "rgb": 10038852
+      }
+    },
+    {
+      "query": "path:Локации  ",
+      "color": {
+        "a": 1,
+        "rgb": 13210141
+      }
+    },
+    {
+      "query": "path:Квесты  ",
+      "color": {
+        "a": 1,
+        "rgb": 9306831
+      }
+    },
+    {
+      "query": "path:События  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Персонажи  ",
+      "color": {
+        "a": 1,
+        "rgb": 11775508
+      }
+    },
+    {
+      "query": "path:Фракции  ",
+      "color": {
+        "a": 1,
+        "rgb": 12313637
+      }
+    },
+    {
+      "query": "path:Журнал/  ",
+      "color": {
+        "a": 1,
+        "rgb": 10045582
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.63125,
+  "lineSizeMultiplier": 1.72057291666667,
+  "collapse-forces": true,
+  "centerStrength": 0.515625,
+  "repelStrength": 13.4375,
+  "linkStrength": 0.765625,
+  "linkDistance": 30,
+  "scale": 0.4061496711336499,
+  "close": true
+}

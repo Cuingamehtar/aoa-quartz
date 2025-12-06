@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "архетипы": "multitext",
+    "аффилиация": "multitext",
+    "где": "text",
+    "родственники": "multitext",
+    "семья": "multitext"
+  }
+}

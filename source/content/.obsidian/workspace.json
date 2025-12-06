@@ -1,81 +1,91 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "c1aa92f3f9a8a035",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "b1905d19174882f9",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "8139af5cf9bb8b2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Журнал/4719-10-17 (17 Ламаштана).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4719-10-17 (17 Ламаштана)"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "2c15ba3a70b33c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Персонажи/Партия/Морган Флисс.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Морган Флисс"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "14b9fdf82a8db00c",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "c288282f5f46d060",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "4a36dee74cf777e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "5f5c5cbddc1104df",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "брит",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "e7e1876e2c0d54bf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,20 +95,141 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "91bca694c6b7b442",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "b4c11205a438bb4a",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "d3e21a208b08282f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Журнал/4719-10-17 (17 Ламаштана).md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Персонажи [отношение:дружественное]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1102128
+                      }
+                    },
+                    {
+                      "query": "path:Фракции [отношение:дружественное]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 889123
+                      }
+                    },
+                    {
+                      "query": "[отношение:партия]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431511
+                      }
+                    },
+                    {
+                      "query": "path:Персонажи [отношение:враждебное]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13383766
+                      }
+                    },
+                    {
+                      "query": "path:Фракции [отношение:враждебное]",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10038852
+                      }
+                    },
+                    {
+                      "query": "path:Локации  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13210141
+                      }
+                    },
+                    {
+                      "query": "path:Квесты  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9306831
+                      }
+                    },
+                    {
+                      "query": "path:События  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
+                    },
+                    {
+                      "query": "path:Персонажи  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11775508
+                      }
+                    },
+                    {
+                      "query": "path:Фракции  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12313637
+                      }
+                    },
+                    {
+                      "query": "path:Журнал/  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10045582
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.6,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4545695522580766,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф 4719-10-17 (17 Ламаштана)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a26f5e4dabb7599b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680df12dc7c25dc8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Персонажи/Партия/Ваан Эрслинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,65 +237,146 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Ваан Эрслинг"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "0dbfe52f1eacc654",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Персонажи/Партия/Ваан Эрслинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Ваан Эрслинг"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "0795b6bd9d2b945b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "ccb8b90603d01abb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "Персонажи/Партия/Ваан Эрслинг.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Ваан Эрслинг"
+            }
+          },
+          {
+            "id": "99751901a7439961",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_a8787b291acb",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 19,
+                    "month": 9,
+                    "year": 4719
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": false,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_b91b6a4b2aab"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "8139af5cf9bb8b2e",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "_templates/Запись в журнале.md",
+    "Журнал/4719-10-17 (17 Ламаштана).md",
+    "_templates/Событие.md",
+    "События/Пожар в ратуше.md",
+    "Локации/Бричилл/Ратуша.md",
+    "Локации/Бричилл/Похоронное бюро Морты.md",
+    "Персонажи/Варбал Бамблбрешер.md",
+    "Персонажи/Бричилл/Мелма Анн Сендари.md",
+    "Персонажи/Бричилл/Квентино Посанди.md",
+    "Персонажи/Бричилл/Йорск Хинтеркло.md",
+    "Персонажи/Бричилл/Грета Гардания.md",
+    "Фракции/Совет Бричилла.md",
+    "Персонажи/Партия/Ваан Эрслинг.md",
+    "Персонажи/Кальмонт Трен.md",
+    "Фракции/Племя Бамблбрешеров.md",
+    "Персонажи/Партия/Морган Флисс.md",
+    "_templates/Место.md",
+    "События",
+    "Журнал",
+    "Персонажи/Партия/Ягргрим Друзд.md",
+    "Персонажи/Партия/Ирисель Раумоэн.md",
+    "Персонажи/Партия/Логи Волмер.md",
+    "_templates/Персонаж.md",
+    "Блэйк 2206.md",
+    "Локации/Бричилл/«Улыбка Шелин».md",
+    "Локации/Бричилл/«Книжный магазин Релиант».md",
+    "Локации/Бричилл/«Плач Ламонда».md",
+    "Локации/Бричилл/Лесопилка Бричилла.md",
+    "Материалы/Age_of_Ashes_1_-_Hellwknight_Hill-71_1_2.webp",
+    "Материалы/Мелма Анн Сендари.png",
+    "Материалы/Йорск Хинтеркло.png",
+    "Материалы/Грета Гардания.png",
+    "Персонажи/Бричилл",
+    "Персонажи/_прочие",
+    "Материалы/Квентино Посанди.png",
+    "Фракции",
+    "Локации/Бричилл.canvas",
+    "Материалы/Морган Флисс.jpg",
+    "Материалы/Ирисель.png",
+    "Материалы/Артур Райн.png",
+    "Материалы/Логи Волмер.png",
+    "Материалы/Яргрим Друзд.png"
   ]
 }
