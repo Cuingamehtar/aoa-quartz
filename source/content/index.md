@@ -1,9 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Стартовая страница
 ---
 
-Hello world!
-
-Write some words here!
-
-test
+Это место было намеренно оставлено пустым.
